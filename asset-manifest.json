@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MyResume/static/css/main.0ec613ee.css",
+    "main.js": "/MyResume/static/js/main.5e696fe1.js",
+    "static/js/453.235e154e.chunk.js": "/MyResume/static/js/453.235e154e.chunk.js",
+    "static/media/Web1.png": "/MyResume/static/media/Web1.2b48800de6eea6f09d51.png",
+    "static/media/MP1.png": "/MyResume/static/media/MP1.be15b4544a42cf88a26a.png",
+    "static/media/web2.png": "/MyResume/static/media/web2.7b6cf37c08f4dc511626.png",
+    "static/media/projectPortfolio.png": "/MyResume/static/media/projectPortfolio.95f928796712353cd9fb.png",
+    "static/media/weblogo-removebg-preview.png": "/MyResume/static/media/weblogo-removebg-preview.65e08278a067e12e694e.png",
+    "static/media/certOfGrad.jpg": "/MyResume/static/media/certOfGrad.a846b8f162934aea6d8b.jpg",
+    "static/media/diploma.jpg": "/MyResume/static/media/diploma.e4457d0b6d0c6f962041.jpg",
+    "static/media/premid.jpg": "/MyResume/static/media/premid.cc3fdf75bfb6a849f610.jpg",
+    "static/media/midterm.jpg": "/MyResume/static/media/midterm.03255c067d50a16cb3bd.jpg",
+    "static/media/prefinal.jpg": "/MyResume/static/media/prefinal.ac92fd4e2e928c0ea3bd.jpg",
+    "static/media/final.jpg": "/MyResume/static/media/final.bfccda8153b8f8b0c6a5.jpg",
+    "static/media/certOfEmplomnt.jpg": "/MyResume/static/media/certOfEmplomnt.b43238ce980bd1337ea1.jpg",
+    "static/media/ojt.jpg": "/MyResume/static/media/ojt.b86ed5b33274fa84b09b.jpg",
+    "static/media/avatar.jpg": "/MyResume/static/media/avatar.47ec7252bdfd24ad8239.jpg",
+    "index.html": "/MyResume/index.html",
+    "main.0ec613ee.css.map": "/MyResume/static/css/main.0ec613ee.css.map",
+    "main.5e696fe1.js.map": "/MyResume/static/js/main.5e696fe1.js.map",
+    "453.235e154e.chunk.js.map": "/MyResume/static/js/453.235e154e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec613ee.css",
+    "static/js/main.5e696fe1.js"
+  ]
+}
